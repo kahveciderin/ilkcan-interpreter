@@ -1,0 +1,5 @@
+/home/derin/Projects/ilkcanlang/ilkcanlang/bin/Debug/ilkcanlang.exe
+/home/derin/Projects/ilkcanlang/ilkcanlang/bin/Debug/ilkcanlang.pdb
+/home/derin/Projects/ilkcanlang/ilkcanlang/obj/x86/Debug/ilkcanlang.csprojAssemblyReference.cache
+/home/derin/Projects/ilkcanlang/ilkcanlang/obj/x86/Debug/ilkcanlang.exe
+/home/derin/Projects/ilkcanlang/ilkcanlang/obj/x86/Debug/ilkcanlang.pdb

@@ -1,0 +1,63 @@
+NUM	0
+OP	>
+VAR	@n1
+---
+NUM	1
+OP	>
+VAR	@n2
+---
+NUM	0
+OP	>
+VAR	@n3
+---
+NUM	2
+OP	>
+VAR	@i
+---
+NUM	0
+OP	>
+VAR	@number
+---
+STR	/Enter the number of elements:/
+OP	>
+---
+OP	>
+VAR	@number
+---
+VAR	@n1
+STR	/ / @n2 / /
+OP	>
+---
+PAR	[
+VAR	@i
+OP	<
+VAR	@number
+PAR	]
+OP	>
+CMD	c
+OP	,
+CMD	w
+PAR	(
+---
+VAR	@n1
+MATH	+
+VAR	@n2
+OP	>
+VAR	@n3
+---
+VAR	@n3
+OP	>
+---
+VAR	@n2
+OP	>
+VAR	@n1
+---
+VAR	@n3
+OP	>
+VAR	@n2
+---
+PAR	)
+---
+---
+---
+

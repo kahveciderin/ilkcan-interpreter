@@ -1,0 +1,14 @@
+0 > @n1
+1 > @n2
+0 > @n3
+2 > @i
+0 > @number
+/Enter the number of elements:/ >
+@number <
+@n1 / / @n2 / / >
+[ @i < @number ] > c , w (
+@n1 + @n2 > @n3
+@n3 >
+@n2 > @n1
+@n3 > @n2
+)
